@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello there!
+I'm epic64, a high-schooler who's into all things technology! My favourite CPU architecture is IA-64 Itanium.
 
-<!--
-**epic64/epic64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm into
+- Experimentating with various operating systems
+- Low‑level C (close to the metal, undefined‑behaviour‑adjacent) (I'm not great, but improving!)
+- Emulator development
+- Windows internals
+- Retro tech
 
-Here are some ideas to get you started:
+### Projects
+I'm currently working on multiple things, but most notably an emulator that simluates an Itanium Merced machine, entirely in code, that will be able to run Windows. I'm also working on a wiki alongside this, as information on the beautiful architecture is scarse and inhumane.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Feel free to check out some of my repositories! Have a great day.**
